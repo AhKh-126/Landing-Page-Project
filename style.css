@@ -111,6 +111,7 @@ button {
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
+    gap:25px;
 }
 
 .quote .text-by{
