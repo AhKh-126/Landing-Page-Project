@@ -105,4 +105,7 @@ button {
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
 }
