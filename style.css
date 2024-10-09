@@ -52,3 +52,12 @@ body {
     width: 400px;
     gap: 10px;
 }
+
+button {
+    background-color: #3882F6;
+    padding: 6cap 24px;
+    font-size: 18px;
+    color: #F9FAF8;
+    border-radius: 8px;
+    border: #3882F6;
+}
