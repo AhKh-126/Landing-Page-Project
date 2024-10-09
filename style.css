@@ -112,3 +112,11 @@ button {
     font-style: italic;
     color: #1F2937;
 }
+
+.quote .text-by{
+    align-self:flex-end;
+    font-size: 18px;
+    color: #1F2937;
+    font-style: normal;
+    font-weight: 600;
+}
