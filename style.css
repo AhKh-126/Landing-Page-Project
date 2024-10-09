@@ -45,3 +45,10 @@ body {
     font-size: 48px;
     font-weight: 900;
 }
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    gap: 10px;
+}
