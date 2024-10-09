@@ -78,3 +78,10 @@ button {
     color: #1F2937;
     font-weight: 900;
 }
+
+.all-cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
