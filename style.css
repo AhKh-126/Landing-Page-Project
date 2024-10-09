@@ -122,6 +122,9 @@ button {
 }
 
 .signup{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     margin: 60px;
     background-color: #3882F6;
     color: #E5E7EB;
