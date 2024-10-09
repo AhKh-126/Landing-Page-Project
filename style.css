@@ -3,6 +3,8 @@ body {
     font-size: 18px;
     display: flex;
     flex-direction: column;
+    margin: 0px;
+    padding: 0px;
 }
 
 .header {
