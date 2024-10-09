@@ -12,3 +12,10 @@ body {
     font-size: 24px;
     color: #F9FAF8;
 }
+
+.header ul, a {
+    list-style-type: none;
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
