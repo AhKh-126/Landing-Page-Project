@@ -92,3 +92,11 @@ button {
     border: #3882F6 solid 2px;
     border-radius: 8px;
 }
+
+.info-cards{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 150px;
+    gap: 10px;
+}
