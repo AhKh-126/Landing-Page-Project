@@ -28,3 +28,15 @@ body {
     margin: 0px;
     padding: 0px;
 }
+
+.hero {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.hero .hero-main-text{
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
